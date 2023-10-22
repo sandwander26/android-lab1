@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="header">Change color of your background!</string>
+    <string name="change">change color</string>>
+    <string name="input_color">Input Color</string>
+    <string name="color_error">Wrong color!</string>
+</resources>
